@@ -1,0 +1,114 @@
+28/08/2021 11:32:43 PM:INFO:Importing Libraries
+28/08/2021 11:32:45 PM:INFO:Importing libraries Successful
+28/08/2021 11:32:45 PM:INFO:Reading Train CSV file
+28/08/2021 11:32:45 PM:INFO:Reading CSV file Successful
+28/08/2021 11:32:45 PM:INFO:Printing the data
+28/08/2021 11:32:45 PM:INFO:Dropping Item Identifier column from the train_data
+28/08/2021 11:32:45 PM:INFO:Dropping Item Identifier Successful
+28/08/2021 11:32:45 PM:INFO:Printing All columns name present in the train_data
+28/08/2021 11:32:45 PM:INFO:Printing All columns name Successful
+28/08/2021 11:32:45 PM:INFO:Printing train_data information
+28/08/2021 11:32:45 PM:INFO:Printing train_data information Successful
+28/08/2021 11:32:45 PM:INFO:Checking null values
+28/08/2021 11:32:46 PM:INFO:Caluculating mean of Item type with respect to Item weight
+28/08/2021 11:32:46 PM:INFO:Filling the null Values of Item weight
+28/08/2021 11:32:46 PM:INFO:NumExpr defaulting to 8 threads.
+28/08/2021 11:32:46 PM:INFO:Successful
+28/08/2021 11:32:46 PM:INFO:Filling null values of Outlet size
+28/08/2021 11:32:46 PM:INFO:Successful
+28/08/2021 11:32:46 PM:INFO:Replacing the values of Item fat content
+28/08/2021 11:32:46 PM:INFO:Successful
+28/08/2021 11:32:46 PM:INFO:Plotting pairplot of train_data
+28/08/2021 11:33:00 PM:INFO:Plotting pairplot of train_data Successful
+28/08/2021 11:33:08 PM:INFO:Plotting countplot of Item fat content
+28/08/2021 11:33:08 PM:INFO:Plotting countplot of Item fat content successful
+28/08/2021 11:33:08 PM:INFO:Plotting distplot of Item outlet sales
+28/08/2021 11:33:08 PM:INFO:Plotting distplot of Item outlet sales successful
+28/08/2021 11:33:09 PM:INFO:Plotting scatterplot
+28/08/2021 11:33:09 PM:INFO:Plotting scatterplot successful
+28/08/2021 11:33:09 PM:INFO:Plotting countplot of outlet identifier
+28/08/2021 11:33:09 PM:INFO:Plotting countplot of outlet identifier successful
+28/08/2021 11:33:09 PM:INFO:Plotting scatterplot of item MRP with respect to Item outlet sales
+28/08/2021 11:33:09 PM:INFO:Successful
+28/08/2021 11:33:10 PM:INFO:Plotting boxplot
+28/08/2021 11:33:10 PM:INFO:Plotting boxplot successful
+28/08/2021 11:33:10 PM:INFO:Plotting countplot of Item type
+28/08/2021 11:33:10 PM:INFO:Plotting countplot of Item type successful
+28/08/2021 11:33:10 PM:INFO:Plotting barplot
+28/08/2021 11:33:11 PM:INFO:Plotting barplot successful
+28/08/2021 11:33:11 PM:INFO:Plotting train_data correlation
+28/08/2021 11:33:11 PM:INFO:Plotting train_data correlation successful
+28/08/2021 11:33:11 PM:INFO:Plotting countplot of outlet establishment year
+28/08/2021 11:33:11 PM:INFO:Successful
+28/08/2021 11:33:11 PM:INFO:Plotting countplot of outlet location type
+28/08/2021 11:33:11 PM:INFO:Successful
+28/08/2021 11:33:12 PM:INFO:Plotting countplot of outlet size
+28/08/2021 11:33:12 PM:INFO:Successful
+28/08/2021 11:33:12 PM:INFO:Applying label encoding to Item type and Outlet identifier
+28/08/2021 11:33:12 PM:INFO:Successful
+28/08/2021 11:33:13 PM:INFO:Label encoding to Item fat content
+28/08/2021 11:33:13 PM:INFO:Successful
+28/08/2021 11:33:13 PM:INFO:Label encoding to outlet size
+28/08/2021 11:33:13 PM:INFO:Label encoding successful
+28/08/2021 11:33:13 PM:INFO:Label encoding to outlet location type
+28/08/2021 11:33:13 PM:INFO:Label encoding successful
+28/08/2021 11:33:13 PM:INFO:Label encoding to outlet type
+28/08/2021 11:33:13 PM:INFO:Label encoding successful
+28/08/2021 11:33:14 PM:INFO:Reading test CSV file
+28/08/2021 11:33:14 PM:INFO:Reading test CSV file successful
+28/08/2021 11:33:14 PM:INFO:Printing test data
+28/08/2021 11:33:14 PM:INFO:Dropping item identifier from test_data
+28/08/2021 11:33:14 PM:INFO:Dropping item identifier successful
+28/08/2021 11:33:14 PM:INFO:Printing all test_data columns
+28/08/2021 11:33:14 PM:INFO:Printing successful
+28/08/2021 11:33:14 PM:INFO:Printing test_data information
+28/08/2021 11:33:14 PM:INFO:Printing successful
+28/08/2021 11:33:14 PM:INFO:Checking the null values
+28/08/2021 11:33:14 PM:INFO:Calculating mean value for item type of test_data
+28/08/2021 11:33:14 PM:INFO:Successful
+28/08/2021 11:33:15 PM:INFO:Filling the null Values of Item weight
+28/08/2021 11:33:15 PM:INFO:Successful
+28/08/2021 11:33:15 PM:INFO:Filling null values of Outlet size
+28/08/2021 11:33:15 PM:INFO:Successful
+28/08/2021 11:33:15 PM:INFO:Replacing the values of Item fat content
+28/08/2021 11:33:15 PM:INFO:Successful
+28/08/2021 11:33:15 PM:INFO:Applying label encoding to Item type and Outlet identifier
+28/08/2021 11:33:15 PM:INFO:Successful
+28/08/2021 11:33:15 PM:INFO:Label encoding to Item fat content
+28/08/2021 11:33:15 PM:INFO:Successful
+28/08/2021 11:33:16 PM:INFO:Label encoding to outlet size
+28/08/2021 11:33:16 PM:INFO:Label encoding successful
+28/08/2021 11:33:16 PM:INFO:Label encoding to outlet location type
+28/08/2021 11:33:16 PM:INFO:Label encoding successful
+28/08/2021 11:33:16 PM:INFO:Label encoding to outlet type
+28/08/2021 11:33:16 PM:INFO:Label encoding successful
+28/08/2021 11:33:16 PM:INFO:Feature Selection
+28/08/2021 11:33:16 PM:INFO:Feature Selection successful
+28/08/2021 11:33:16 PM:INFO:Plotting train_data correlation heatmap
+28/08/2021 11:33:18 PM:INFO:Plotting successful
+28/08/2021 11:33:18 PM:INFO:Checking important feature
+28/08/2021 11:33:22 PM:INFO:Checking important feature Successful
+28/08/2021 11:33:22 PM:INFO:Plotting graph of feature importance
+28/08/2021 11:33:23 PM:INFO:Plotting graph of feature importance Successful
+28/08/2021 11:33:23 PM:INFO:Splitting the data into Train and test
+28/08/2021 11:33:23 PM:INFO:Successful
+28/08/2021 11:33:23 PM:INFO:Fitting Model Using Linear Regression
+28/08/2021 11:33:23 PM:INFO:Successful
+28/08/2021 11:33:24 PM:INFO:Fitting Model Using ExtraTree Regression
+28/08/2021 11:33:27 PM:INFO:Successful
+28/08/2021 11:33:28 PM:INFO:Fitting Model Using Gradient Boosting Regression
+28/08/2021 11:33:29 PM:INFO:Successful
+28/08/2021 11:33:30 PM:INFO:Fitting Model Using Random Forest Regression
+28/08/2021 11:35:36 PM:INFO:Successful
+28/08/2021 11:35:37 PM:INFO:Fitting Model Using XGBoost Regression
+28/08/2021 11:35:37 PM:INFO:Successful
+28/08/2021 11:35:37 PM:INFO:Fitting Model Using Kneighbors Regression
+28/08/2021 11:35:37 PM:INFO:Successful
+28/08/2021 11:37:48 PM:INFO:Saving the model
+28/08/2021 11:37:49 PM:INFO:Successful
+28/08/2021 11:38:02 PM:INFO:Predicting on test data
+28/08/2021 11:38:02 PM:INFO:Prediction successful
+28/08/2021 11:39:33 PM:INFO:Saving the model
+28/08/2021 11:39:33 PM:INFO:Successful
+28/08/2021 11:39:34 PM:INFO:Predicting on test data
+28/08/2021 11:39:34 PM:INFO:Prediction successful
