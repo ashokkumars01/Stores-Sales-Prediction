@@ -11,6 +11,6 @@ Link: http://stores-sales-prediction.herokuapp.com/
 This is a Flask web app which predicts item outlet sales of Stores Sales Prediction.
 
 ## Installation
-The Code is written in Python 3.6.10. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
+The Code is written in Python 3.8.9. If you don't have Python installed you can click on the link https://www.python.org/downloads/. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 pip install -r requirements.txt
