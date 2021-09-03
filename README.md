@@ -7,6 +7,9 @@ Link: http://stores-sales-prediction.herokuapp.com/
 ![4](https://user-images.githubusercontent.com/56039882/131975204-87bc1d5d-9ac6-4d02-9fdf-9bf3960a18ef.PNG)
 ![5](https://user-images.githubusercontent.com/56039882/131975233-0f07f75a-530c-4449-84b2-bb36812a39b9.PNG)
 
+## Demo Video
+YouTube Link: https://www.youtube.com/watch?v=KGbDN1ARc-8
+
 ## Overview
 This is a Flask web app which predicts item outlet sales of Stores Sales Prediction.
 
