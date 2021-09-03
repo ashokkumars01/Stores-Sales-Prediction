@@ -30,7 +30,7 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 ![image](https://user-images.githubusercontent.com/56039882/131978106-a149b5ae-8252-461f-9335-27b962982880.png)
 ![image](https://user-images.githubusercontent.com/56039882/131978128-02102d84-d4a5-4093-9390-7a647cee09f8.png)
 
-# Future Scope
+## Future Scope
 * Use multiple Algorithms
 * Optimize Flask app.py
 * Front-End
