@@ -21,20 +21,6 @@ Login or signup in order to create virtual app. You can either connect your gith
 Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
 ## Directory Tree
-├── Dataset
-    ├── Test.csv   
-    ├── Train.csv  
-├── static 
-│   ├── css
-├── templates
-│   ├── home.html
-├── Procfile
-├── README.md
-├── app.py
-├── Stores Sales Prediction.ipynb
-├── Stores_Sales.pkl
-├── requirements.txt
-├── log_file.txt
 ![image](https://user-images.githubusercontent.com/56039882/131978926-6eb2d854-a08a-45fe-9821-4439eb5f08ff.png)
 
 
@@ -43,3 +29,8 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 ![image](https://user-images.githubusercontent.com/56039882/131978079-a53c0114-f559-42e2-afe2-53753b9f2ccc.png)
 ![image](https://user-images.githubusercontent.com/56039882/131978106-a149b5ae-8252-461f-9335-27b962982880.png)
 ![image](https://user-images.githubusercontent.com/56039882/131978128-02102d84-d4a5-4093-9390-7a647cee09f8.png)
+
+# Future Scope
+* Use multiple Algorithms
+* Optimize Flask app.py
+* Front-End
