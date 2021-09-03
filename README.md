@@ -1,4 +1,4 @@
-# Stores-Sales-Prediction
+# Stores Sales Prediction
 
 ## Demo
 Link: http://stores-sales-prediction.herokuapp.com/
