@@ -22,19 +22,33 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 
 ## Directory Tree
 ├── Dataset
+
     ├── Test.csv
+    
     ├── Train.csv
+    
 ├── static 
+
 │   ├── css
+
 ├── templates
+
 │   ├── home.html
+
 ├── Procfile
+
 ├── README.md
+
 ├── app.py
+
 ├── Stores Sales Prediction.ipynb
+
 ├── Stores_Sales.pkl
+
 ├── requirements.txt
+
 ├── log_file.txt
+
 
 ## Technologies Used
 ![image](https://user-images.githubusercontent.com/56039882/131978055-4eaf451c-56ab-4f03-be1e-16e008ccd3c3.png)
